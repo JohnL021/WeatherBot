@@ -1,7 +1,7 @@
 # WeatherBot
 
 .env file format:
-DISCORD_TOKEN=(id)
+\nDISCORD_TOKEN=(id)
 WEATHER_API_KEY=(id)
 CHANNEL_ID=(id)
 BOT_OWNER_ID=(id)
